@@ -89,8 +89,8 @@ flowchart TB
 ### Overview
 *(scrollable page — top and bottom halves shown separately)*
 
-![Overview - Stats & Timeline](screenshots/overview/overview_1.png)
-![Overview - Heatmap & Wordcloud](screenshots/overview/overview_2.png)
+![Overview - Stats & Timeline](screenshots/overview/overview1.png)
+![Overview - Heatmap & Wordcloud](screenshots/overview/overview2.png)
 
 ### Sentiment Analysis
 ![Sentiment](screenshots/sentiment.png)
