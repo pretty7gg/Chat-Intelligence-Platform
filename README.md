@@ -1,6 +1,6 @@
 # 💬 Converso AI — Conversation Intelligence Platform
 
-A local-first Python/Streamlit platform that turns raw WhatsApp chat exports into statistical, sentiment, topic, and conversational-AI insights — with **zero paid API calls**. Everything, including the LLM used for Q&A, runs on your own machine.
+A local-first Python/Streamlit platform that turns raw WhatsApp chat exports into statistical, sentiment, topic, and conversational-AI insights . Everything, including the LLM used for Q&A, runs on your own machine.
 
 ---
 
@@ -79,7 +79,6 @@ flowchart TB
 
 ## 📸 Screenshots
 
-> Add screenshots to a `/screenshots` folder in your repo and reference them below.
 
 | Overview | Sentiment | Topics | Ask Your Chat |
 |---|---|---|---|
