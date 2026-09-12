@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+urlextract
+wordcloud
+sentence-transformers
+scikit-learn
+transformers
+torch
+faiss-cpu
+ollama
