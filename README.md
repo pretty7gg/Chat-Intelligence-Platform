@@ -80,9 +80,9 @@ flowchart TB
 ## 📸 Screenshots
 
 
-| Overview | Sentiment | Topics | Ask Your Chat |
+| Overview | Sentiment | Topic Discovery | Ask Your Chat |
 |---|---|---|---|
-| ![Overview](screenshots/overview1.png)(screenshots/overview2.png) | ![Sentiment](screenshots/sentiment.png) | ![Topic Discovery](screenshots/topic.png) | ![Q&A Chatbot](screenshots/ask.png) |
+| ![Overview](screenshots/overview.png) | ![Sentiment](screenshots/sentiment.png) | ![Topic Discovery](screenshots/topic.png) | ![Q&A Chatbot](screenshots/ask.png) |
 
 
 
