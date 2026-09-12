@@ -77,13 +77,29 @@ flowchart TB
 
 ---
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
 
 | Overview | Sentiment | Topic Discovery | Ask Your Chat |
 |---|---|---|---|
-| ![Overview](screenshots/overview.png) | ![Sentiment](screenshots/sentiment.png) | ![Topic Discovery](screenshots/topic.png) | ![Q&A Chatbot](screenshots/ask.png) |
+| ![Overview](screenshots/overview/overview2.png) | ![Sentiment](screenshots/sentiment.png) | ![Topic Discovery](screenshots/topic.png) | ![Q&A Chatbot](screenshots/ask.png) | -->
 
+## 📸 Screenshots
+
+### Overview
+*(scrollable page — top and bottom halves shown separately)*
+
+![Overview - Stats & Timeline](screenshots/overview/overview_1.png)
+![Overview - Heatmap & Wordcloud](screenshots/overview/overview_2.png)
+
+### Sentiment Analysis
+![Sentiment](screenshots/sentiment.png)
+
+### Topic Discovery
+![Topics](screenshots/topic.png)
+
+### Q&A ChatBot
+![Ask Your Chat](screenshots/ask.png)
 
 
 
